@@ -1,0 +1,24 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/cat/AI/ADAS_Project/start/start.cc
+unistd.h
+-
+stdio.h
+-
+stdlib.h
+-
+sys/types.h
+-
+sys/wait.h
+-
+signal.h
+-
+errno.h
+-
+

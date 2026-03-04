@@ -1,0 +1,198 @@
+{
+	"archive" : {},
+	"artifacts" : 
+	[
+		{
+			"path" : "utils.out/libimageutils.a"
+		}
+	],
+	"backtrace" : 1,
+	"backtraceGraph" : 
+	{
+		"commands" : 
+		[
+			"add_library",
+			"include_directories",
+			"target_include_directories"
+		],
+		"files" : 
+		[
+			"utils/CMakeLists.txt",
+			"CMakeLists.txt"
+		],
+		"nodes" : 
+		[
+			{
+				"file" : 0
+			},
+			{
+				"command" : 0,
+				"file" : 0,
+				"line" : 28,
+				"parent" : 0
+			},
+			{
+				"file" : 1
+			},
+			{
+				"command" : 1,
+				"file" : 1,
+				"line" : 22,
+				"parent" : 2
+			},
+			{
+				"command" : 1,
+				"file" : 1,
+				"line" : 39,
+				"parent" : 2
+			},
+			{
+				"command" : 2,
+				"file" : 0,
+				"line" : 40,
+				"parent" : 0
+			}
+		]
+	},
+	"compileGroups" : 
+	[
+		{
+			"compileCommandFragments" : 
+			[
+				{
+					"fragment" : "-g"
+				},
+				{
+					"fragment" : "-std=gnu++11"
+				}
+			],
+			"includes" : 
+			[
+				{
+					"path" : "/home/cat/AI/ADAS_Project/sfbtdet/build/utils.out"
+				},
+				{
+					"path" : "/home/cat/AI/ADAS_Project/sfbtdet/utils"
+				},
+				{
+					"backtrace" : 0,
+					"path" : "/home/cat/AI/ADAS_Project/sfbtdet/build/utils.out/imageutils_autogen/include"
+				},
+				{
+					"backtrace" : 3,
+					"path" : "/home/cat/AI/ADAS_Project/sfbtdet/include"
+				},
+				{
+					"backtrace" : 4,
+					"path" : "/usr/include/opencv4"
+				},
+				{
+					"backtrace" : 5,
+					"path" : "/home/cat/AI/ADAS_Project/sfbtdet/3rdparty/stb_image"
+				},
+				{
+					"backtrace" : 5,
+					"path" : "/home/cat/AI/ADAS_Project/sfbtdet/3rdparty/jpeg_turbo/include"
+				},
+				{
+					"backtrace" : 5,
+					"path" : "/home/cat/AI/ADAS_Project/sfbtdet/3rdparty/librga/include"
+				}
+			],
+			"language" : "CXX",
+			"sourceIndexes" : 
+			[
+				0
+			]
+		},
+		{
+			"compileCommandFragments" : 
+			[
+				{
+					"fragment" : "-g"
+				}
+			],
+			"includes" : 
+			[
+				{
+					"path" : "/home/cat/AI/ADAS_Project/sfbtdet/build/utils.out"
+				},
+				{
+					"path" : "/home/cat/AI/ADAS_Project/sfbtdet/utils"
+				},
+				{
+					"backtrace" : 0,
+					"path" : "/home/cat/AI/ADAS_Project/sfbtdet/build/utils.out/imageutils_autogen/include"
+				},
+				{
+					"backtrace" : 3,
+					"path" : "/home/cat/AI/ADAS_Project/sfbtdet/include"
+				},
+				{
+					"backtrace" : 4,
+					"path" : "/usr/include/opencv4"
+				},
+				{
+					"backtrace" : 5,
+					"path" : "/home/cat/AI/ADAS_Project/sfbtdet/3rdparty/stb_image"
+				},
+				{
+					"backtrace" : 5,
+					"path" : "/home/cat/AI/ADAS_Project/sfbtdet/3rdparty/jpeg_turbo/include"
+				},
+				{
+					"backtrace" : 5,
+					"path" : "/home/cat/AI/ADAS_Project/sfbtdet/3rdparty/librga/include"
+				}
+			],
+			"language" : "C",
+			"sourceIndexes" : 
+			[
+				1
+			]
+		}
+	],
+	"dependencies" : 
+	[
+		{
+			"backtrace" : 0,
+			"id" : "imageutils_autogen::@d3ad88163ad4775a7946"
+		}
+	],
+	"id" : "imageutils::@d3ad88163ad4775a7946",
+	"name" : "imageutils",
+	"nameOnDisk" : "libimageutils.a",
+	"paths" : 
+	{
+		"build" : "utils.out",
+		"source" : "utils"
+	},
+	"sourceGroups" : 
+	[
+		{
+			"name" : "Source Files",
+			"sourceIndexes" : 
+			[
+				0,
+				1
+			]
+		}
+	],
+	"sources" : 
+	[
+		{
+			"backtrace" : 0,
+			"compileGroupIndex" : 0,
+			"isGenerated" : true,
+			"path" : "build/utils.out/imageutils_autogen/mocs_compilation.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 1,
+			"path" : "utils/image_utils.c",
+			"sourceGroupIndex" : 0
+		}
+	],
+	"type" : "STATIC_LIBRARY"
+}

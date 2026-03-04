@@ -1,0 +1,67 @@
+[
+{
+  "directory": "/home/cat/AI/ADAS_Project/sfbtdet/build",
+  "command": "/usr/bin/aarch64-linux-gnu-g++ -DQT_CORE_LIB -DQT_GUI_LIB -DQT_WIDGETS_LIB -I/home/cat/AI/ADAS_Project/sfbtdet/build -I/home/cat/AI/ADAS_Project/sfbtdet -I/home/cat/AI/ADAS_Project/sfbtdet/build/adas_autogen/include -I/home/cat/AI/ADAS_Project/sfbtdet/include -I/home/cat/AI/ADAS_Project/sfbtdet/utils -I/home/cat/AI/ADAS_Project/sfbtdet/3rdparty/stb_image -I/home/cat/AI/ADAS_Project/sfbtdet/3rdparty/jpeg_turbo/include -I/home/cat/AI/ADAS_Project/sfbtdet/3rdparty/librga/include -isystem /usr/include/opencv4 -isystem /usr/include/aarch64-linux-gnu/qt5 -isystem /usr/include/aarch64-linux-gnu/qt5/QtWidgets -isystem /usr/include/aarch64-linux-gnu/qt5/QtGui -isystem /usr/include/aarch64-linux-gnu/qt5/QtCore -isystem /usr/lib/aarch64-linux-gnu/qt5/mkspecs/linux-g++ -g -fPIC -pthread -std=gnu++11 -o CMakeFiles/adas.dir/adas_autogen/mocs_compilation.cpp.o -c /home/cat/AI/ADAS_Project/sfbtdet/build/adas_autogen/mocs_compilation.cpp",
+  "file": "/home/cat/AI/ADAS_Project/sfbtdet/build/adas_autogen/mocs_compilation.cpp"
+},
+{
+  "directory": "/home/cat/AI/ADAS_Project/sfbtdet/build",
+  "command": "/usr/bin/aarch64-linux-gnu-g++ -DQT_CORE_LIB -DQT_GUI_LIB -DQT_WIDGETS_LIB -I/home/cat/AI/ADAS_Project/sfbtdet/build -I/home/cat/AI/ADAS_Project/sfbtdet -I/home/cat/AI/ADAS_Project/sfbtdet/build/adas_autogen/include -I/home/cat/AI/ADAS_Project/sfbtdet/include -I/home/cat/AI/ADAS_Project/sfbtdet/utils -I/home/cat/AI/ADAS_Project/sfbtdet/3rdparty/stb_image -I/home/cat/AI/ADAS_Project/sfbtdet/3rdparty/jpeg_turbo/include -I/home/cat/AI/ADAS_Project/sfbtdet/3rdparty/librga/include -isystem /usr/include/opencv4 -isystem /usr/include/aarch64-linux-gnu/qt5 -isystem /usr/include/aarch64-linux-gnu/qt5/QtWidgets -isystem /usr/include/aarch64-linux-gnu/qt5/QtGui -isystem /usr/include/aarch64-linux-gnu/qt5/QtCore -isystem /usr/lib/aarch64-linux-gnu/qt5/mkspecs/linux-g++ -g -fPIC -pthread -std=gnu++11 -o CMakeFiles/adas.dir/src/sbDetect.cc.o -c /home/cat/AI/ADAS_Project/sfbtdet/src/sbDetect.cc",
+  "file": "/home/cat/AI/ADAS_Project/sfbtdet/src/sbDetect.cc"
+},
+{
+  "directory": "/home/cat/AI/ADAS_Project/sfbtdet/build",
+  "command": "/usr/bin/aarch64-linux-gnu-g++ -DQT_CORE_LIB -DQT_GUI_LIB -DQT_WIDGETS_LIB -I/home/cat/AI/ADAS_Project/sfbtdet/build -I/home/cat/AI/ADAS_Project/sfbtdet -I/home/cat/AI/ADAS_Project/sfbtdet/build/adas_autogen/include -I/home/cat/AI/ADAS_Project/sfbtdet/include -I/home/cat/AI/ADAS_Project/sfbtdet/utils -I/home/cat/AI/ADAS_Project/sfbtdet/3rdparty/stb_image -I/home/cat/AI/ADAS_Project/sfbtdet/3rdparty/jpeg_turbo/include -I/home/cat/AI/ADAS_Project/sfbtdet/3rdparty/librga/include -isystem /usr/include/opencv4 -isystem /usr/include/aarch64-linux-gnu/qt5 -isystem /usr/include/aarch64-linux-gnu/qt5/QtWidgets -isystem /usr/include/aarch64-linux-gnu/qt5/QtGui -isystem /usr/include/aarch64-linux-gnu/qt5/QtCore -isystem /usr/lib/aarch64-linux-gnu/qt5/mkspecs/linux-g++ -g -fPIC -pthread -std=gnu++11 -o CMakeFiles/adas.dir/src/postprocess.cc.o -c /home/cat/AI/ADAS_Project/sfbtdet/src/postprocess.cc",
+  "file": "/home/cat/AI/ADAS_Project/sfbtdet/src/postprocess.cc"
+},
+{
+  "directory": "/home/cat/AI/ADAS_Project/sfbtdet/build",
+  "command": "/usr/bin/aarch64-linux-gnu-g++ -DQT_CORE_LIB -DQT_GUI_LIB -DQT_WIDGETS_LIB -I/home/cat/AI/ADAS_Project/sfbtdet/build -I/home/cat/AI/ADAS_Project/sfbtdet -I/home/cat/AI/ADAS_Project/sfbtdet/build/adas_autogen/include -I/home/cat/AI/ADAS_Project/sfbtdet/include -I/home/cat/AI/ADAS_Project/sfbtdet/utils -I/home/cat/AI/ADAS_Project/sfbtdet/3rdparty/stb_image -I/home/cat/AI/ADAS_Project/sfbtdet/3rdparty/jpeg_turbo/include -I/home/cat/AI/ADAS_Project/sfbtdet/3rdparty/librga/include -isystem /usr/include/opencv4 -isystem /usr/include/aarch64-linux-gnu/qt5 -isystem /usr/include/aarch64-linux-gnu/qt5/QtWidgets -isystem /usr/include/aarch64-linux-gnu/qt5/QtGui -isystem /usr/include/aarch64-linux-gnu/qt5/QtCore -isystem /usr/lib/aarch64-linux-gnu/qt5/mkspecs/linux-g++ -g -fPIC -pthread -std=gnu++11 -o CMakeFiles/adas.dir/src/mainwindow.cpp.o -c /home/cat/AI/ADAS_Project/sfbtdet/src/mainwindow.cpp",
+  "file": "/home/cat/AI/ADAS_Project/sfbtdet/src/mainwindow.cpp"
+},
+{
+  "directory": "/home/cat/AI/ADAS_Project/sfbtdet/build",
+  "command": "/usr/bin/aarch64-linux-gnu-g++ -DQT_CORE_LIB -DQT_GUI_LIB -DQT_WIDGETS_LIB -I/home/cat/AI/ADAS_Project/sfbtdet/build -I/home/cat/AI/ADAS_Project/sfbtdet -I/home/cat/AI/ADAS_Project/sfbtdet/build/adas_autogen/include -I/home/cat/AI/ADAS_Project/sfbtdet/include -I/home/cat/AI/ADAS_Project/sfbtdet/utils -I/home/cat/AI/ADAS_Project/sfbtdet/3rdparty/stb_image -I/home/cat/AI/ADAS_Project/sfbtdet/3rdparty/jpeg_turbo/include -I/home/cat/AI/ADAS_Project/sfbtdet/3rdparty/librga/include -isystem /usr/include/opencv4 -isystem /usr/include/aarch64-linux-gnu/qt5 -isystem /usr/include/aarch64-linux-gnu/qt5/QtWidgets -isystem /usr/include/aarch64-linux-gnu/qt5/QtGui -isystem /usr/include/aarch64-linux-gnu/qt5/QtCore -isystem /usr/lib/aarch64-linux-gnu/qt5/mkspecs/linux-g++ -g -fPIC -pthread -std=gnu++11 -o CMakeFiles/adas.dir/src/yolov5.cc.o -c /home/cat/AI/ADAS_Project/sfbtdet/src/yolov5.cc",
+  "file": "/home/cat/AI/ADAS_Project/sfbtdet/src/yolov5.cc"
+},
+{
+  "directory": "/home/cat/AI/ADAS_Project/sfbtdet/build/utils.out",
+  "command": "/usr/bin/aarch64-linux-gnu-g++  -I/home/cat/AI/ADAS_Project/sfbtdet/build/utils.out -I/home/cat/AI/ADAS_Project/sfbtdet/utils -I/home/cat/AI/ADAS_Project/sfbtdet/build/utils.out/audioutils_autogen/include -I/home/cat/AI/ADAS_Project/sfbtdet/include -I/usr/include/opencv4 -I/home/cat/AI/ADAS_Project/sfbtdet/3rdparty/libsndfile/include -g -std=gnu++11 -o CMakeFiles/audioutils.dir/audioutils_autogen/mocs_compilation.cpp.o -c /home/cat/AI/ADAS_Project/sfbtdet/build/utils.out/audioutils_autogen/mocs_compilation.cpp",
+  "file": "/home/cat/AI/ADAS_Project/sfbtdet/build/utils.out/audioutils_autogen/mocs_compilation.cpp"
+},
+{
+  "directory": "/home/cat/AI/ADAS_Project/sfbtdet/build/utils.out",
+  "command": "/usr/bin/aarch64-linux-gnu-gcc  -I/home/cat/AI/ADAS_Project/sfbtdet/build/utils.out -I/home/cat/AI/ADAS_Project/sfbtdet/utils -I/home/cat/AI/ADAS_Project/sfbtdet/build/utils.out/audioutils_autogen/include -I/home/cat/AI/ADAS_Project/sfbtdet/include -I/usr/include/opencv4 -I/home/cat/AI/ADAS_Project/sfbtdet/3rdparty/libsndfile/include -g -o CMakeFiles/audioutils.dir/audio_utils.c.o -c /home/cat/AI/ADAS_Project/sfbtdet/utils/audio_utils.c",
+  "file": "/home/cat/AI/ADAS_Project/sfbtdet/utils/audio_utils.c"
+},
+{
+  "directory": "/home/cat/AI/ADAS_Project/sfbtdet/build/utils.out",
+  "command": "/usr/bin/aarch64-linux-gnu-g++  -I/home/cat/AI/ADAS_Project/sfbtdet/build/utils.out -I/home/cat/AI/ADAS_Project/sfbtdet/utils -I/home/cat/AI/ADAS_Project/sfbtdet/build/utils.out/imageutils_autogen/include -I/home/cat/AI/ADAS_Project/sfbtdet/include -I/usr/include/opencv4 -I/home/cat/AI/ADAS_Project/sfbtdet/3rdparty/stb_image -I/home/cat/AI/ADAS_Project/sfbtdet/3rdparty/jpeg_turbo/include -I/home/cat/AI/ADAS_Project/sfbtdet/3rdparty/librga/include -g -std=gnu++11 -o CMakeFiles/imageutils.dir/imageutils_autogen/mocs_compilation.cpp.o -c /home/cat/AI/ADAS_Project/sfbtdet/build/utils.out/imageutils_autogen/mocs_compilation.cpp",
+  "file": "/home/cat/AI/ADAS_Project/sfbtdet/build/utils.out/imageutils_autogen/mocs_compilation.cpp"
+},
+{
+  "directory": "/home/cat/AI/ADAS_Project/sfbtdet/build/utils.out",
+  "command": "/usr/bin/aarch64-linux-gnu-gcc  -I/home/cat/AI/ADAS_Project/sfbtdet/build/utils.out -I/home/cat/AI/ADAS_Project/sfbtdet/utils -I/home/cat/AI/ADAS_Project/sfbtdet/build/utils.out/imageutils_autogen/include -I/home/cat/AI/ADAS_Project/sfbtdet/include -I/usr/include/opencv4 -I/home/cat/AI/ADAS_Project/sfbtdet/3rdparty/stb_image -I/home/cat/AI/ADAS_Project/sfbtdet/3rdparty/jpeg_turbo/include -I/home/cat/AI/ADAS_Project/sfbtdet/3rdparty/librga/include -g -o CMakeFiles/imageutils.dir/image_utils.c.o -c /home/cat/AI/ADAS_Project/sfbtdet/utils/image_utils.c",
+  "file": "/home/cat/AI/ADAS_Project/sfbtdet/utils/image_utils.c"
+},
+{
+  "directory": "/home/cat/AI/ADAS_Project/sfbtdet/build/utils.out",
+  "command": "/usr/bin/aarch64-linux-gnu-g++  -I/home/cat/AI/ADAS_Project/sfbtdet/build/utils.out -I/home/cat/AI/ADAS_Project/sfbtdet/utils -I/home/cat/AI/ADAS_Project/sfbtdet/build/utils.out/imagedrawing_autogen/include -I/home/cat/AI/ADAS_Project/sfbtdet/include -I/usr/include/opencv4 -g -std=gnu++11 -o CMakeFiles/imagedrawing.dir/imagedrawing_autogen/mocs_compilation.cpp.o -c /home/cat/AI/ADAS_Project/sfbtdet/build/utils.out/imagedrawing_autogen/mocs_compilation.cpp",
+  "file": "/home/cat/AI/ADAS_Project/sfbtdet/build/utils.out/imagedrawing_autogen/mocs_compilation.cpp"
+},
+{
+  "directory": "/home/cat/AI/ADAS_Project/sfbtdet/build/utils.out",
+  "command": "/usr/bin/aarch64-linux-gnu-gcc  -I/home/cat/AI/ADAS_Project/sfbtdet/build/utils.out -I/home/cat/AI/ADAS_Project/sfbtdet/utils -I/home/cat/AI/ADAS_Project/sfbtdet/build/utils.out/imagedrawing_autogen/include -I/home/cat/AI/ADAS_Project/sfbtdet/include -I/usr/include/opencv4 -g -o CMakeFiles/imagedrawing.dir/image_drawing.c.o -c /home/cat/AI/ADAS_Project/sfbtdet/utils/image_drawing.c",
+  "file": "/home/cat/AI/ADAS_Project/sfbtdet/utils/image_drawing.c"
+},
+{
+  "directory": "/home/cat/AI/ADAS_Project/sfbtdet/build/utils.out",
+  "command": "/usr/bin/aarch64-linux-gnu-g++  -I/home/cat/AI/ADAS_Project/sfbtdet/build/utils.out -I/home/cat/AI/ADAS_Project/sfbtdet/utils -I/home/cat/AI/ADAS_Project/sfbtdet/build/utils.out/fileutils_autogen/include -I/home/cat/AI/ADAS_Project/sfbtdet/include -I/usr/include/opencv4 -g -std=gnu++11 -o CMakeFiles/fileutils.dir/fileutils_autogen/mocs_compilation.cpp.o -c /home/cat/AI/ADAS_Project/sfbtdet/build/utils.out/fileutils_autogen/mocs_compilation.cpp",
+  "file": "/home/cat/AI/ADAS_Project/sfbtdet/build/utils.out/fileutils_autogen/mocs_compilation.cpp"
+},
+{
+  "directory": "/home/cat/AI/ADAS_Project/sfbtdet/build/utils.out",
+  "command": "/usr/bin/aarch64-linux-gnu-gcc  -I/home/cat/AI/ADAS_Project/sfbtdet/build/utils.out -I/home/cat/AI/ADAS_Project/sfbtdet/utils -I/home/cat/AI/ADAS_Project/sfbtdet/build/utils.out/fileutils_autogen/include -I/home/cat/AI/ADAS_Project/sfbtdet/include -I/usr/include/opencv4 -g -o CMakeFiles/fileutils.dir/file_utils.c.o -c /home/cat/AI/ADAS_Project/sfbtdet/utils/file_utils.c",
+  "file": "/home/cat/AI/ADAS_Project/sfbtdet/utils/file_utils.c"
+}
+]
